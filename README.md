@@ -26,8 +26,6 @@ zomato-analysis/
 │   │   ├── zomato_original_data.xlsx        # Main Zomato dataset
 │   │   ├── country_codes.xlsx               # Country reference table
 │   │   └── currency_codes.xlsx              # Currency reference data
-│   └── processed/
-│       └── [Processed output files]
 │
 ├── sql/                               # SQL scripts
 │   └── zomato_analysis.sql            # All SQL queries and table creation
@@ -253,6 +251,8 @@ This project is for educational and analytical purposes.
 ---
 
 **Project Status:** ✅ Complete - Database, Analysis, Visualizations, and Presentation Ready
+
+**Time Period:** Sept-Nov 2025
 
 **Last Updated:** February 2026
 
