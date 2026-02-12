@@ -1,4 +1,9 @@
-# Zomato Data Analysis Project
+# 🍴 Zomato Global Restaurant Intelligence
+
+![Power BI](https://img.shields.io/badge/Data_Viz-Power_BI-yellow) 
+![SQL](https://img.shields.io/badge/Database-MySQL-blue) 
+![Excel](https://img.shields.io/badge/Analysis-Excel-green) 
+![Status](https://img.shields.io/badge/Status-Complete-success)
 
 A comprehensive data analysis project on Zomato restaurant data across 15 countries. This project demonstrates end-to-end data analytics from SQL database creation to interactive dashboards and presentations.
 
